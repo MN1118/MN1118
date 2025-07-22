@@ -13,14 +13,13 @@
 
 ### 🛠 Tech Stack
 - 💻 HTML | CSS | JavaScript  
-- 🌐 Git | GitHub  
-- 📚 C | C++ | Advanced C  
+- 🌐 Git | GitHub   
 - 📊 Learning: React, Firebase, MongoDB  
 
 ---
 
 ### 📂 Projects
-Here are some of my pinned projects:
+Here are some projects:
 - 🔗 [Birthday Website](https://github.com/MN1118/birthday)
 - 🔗 [Front-End Projects](https://github.com/MN1118/Front-end)
 
