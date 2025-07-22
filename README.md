@@ -39,4 +39,28 @@ Here are some of my pinned projects:
 
 ---
 
+### 📊 GitHub Stats
+
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=MN1118&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MN1118&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MN1118&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 👁 Profile Views
+
+![](https://komarev.com/ghpvc/?username=MN1118&label=PROFILE+VIEWS&color=blue&style=flat)
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MN1118&theme=react-dark)
+
 ⭐ Thank you for visiting my GitHub profile!
