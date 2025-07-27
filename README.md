@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=MN1118&color=brightgreen" alt="watching_count" />
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-20-blueviolet" />
+    <img src="https://img.shields.io/badge/Age-19-blueviolet" />
     <img src="https://img.shields.io/badge/Focus-Frontend%20Development-green" />
     <img src="https://img.shields.io/badge/Lives-Pune-success" />
     <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
