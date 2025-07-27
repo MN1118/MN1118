@@ -1,6 +1,6 @@
-<center>
+<p align="center">
 <img width="50%" align="center" src="https://raw.githubusercontent.com/dheerajkotwani/dheerajkotwani/master/hello.gif"/>
-</center>
+</p>
 <br>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=MN1118&color=brightgreen" alt="watching_count" />
@@ -88,7 +88,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MN1118">
     </span>
     <span align="right">
-    <img src="https://i.pinimg.com/originals/95/17/53/951753a4fb9bb0a0013a9badc2f7550e.gif" align="right" width="300px">
+    <img src="https://www.pratishkhandelwal.in/static/media/logo.cf8b869a5a08ed1978ad.gif" align="right" width="200px">
     </span>
     
 <br><br>
@@ -125,8 +125,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=MN1118&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
 <br>
-<center>
+<<p align="center">
 <img src="https://camo.githubusercontent.com/dde371a36092a606487d0093575332cdb845aa5f9fb307ae09e6965c90e1cce8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323435373232312f73637265656e73686f74732f31393836393133302f6d656469612f66386166616462343635383632616466393237396432316361636634346230332e676966" align="center" width="300px">
-</center>
+</p>
 
 <img src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/02e5956fbf95125d217e0968667fd4fb30ce73db/sample.svg" width="100%">
