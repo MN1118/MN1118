@@ -125,7 +125,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=MN1118&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
 <br>
-<<p align="center">
+<p align="center">
 <img src="https://camo.githubusercontent.com/dde371a36092a606487d0093575332cdb845aa5f9fb307ae09e6965c90e1cce8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323435373232312f73637265656e73686f74732f31393836393133302f6d656469612f66386166616462343635383632616466393237396432316361636634346230332e676966" align="center" width="300px">
 </p>
 
