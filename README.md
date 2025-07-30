@@ -109,7 +109,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MN1118&repo=sample-repo">     
     </a>
  <a href="https://github.com/MN1118/Mini-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MN1118&repo=Mini-Projects">     
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MN1118&repo=Snap-Portfolio">     
     </a>
     </p>
     <br/>  
