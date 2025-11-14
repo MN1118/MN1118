@@ -105,12 +105,7 @@
 <a href="https://github.com/MN1118">
   <img height="200px" width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MN1118&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/MN1118/sample-repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MN1118&repo=sample-repo">     
-    </a>
- <a href="https://github.com/MN1118/Mini-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MN1118&repo=Snap-Portfolio">     
-    </a>
+
     </p>
     <br/>  
 <br/>
