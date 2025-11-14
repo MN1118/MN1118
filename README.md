@@ -105,9 +105,6 @@
 <a href="https://github.com/MN1118">
   <img height="200px" width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MN1118&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-    </p>
-    <br/>  
 <br/>
 <br/>
 <em>
