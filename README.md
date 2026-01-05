@@ -46,13 +46,23 @@
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Introducing: About Me
     </h2>
 </em>
-    🍭 Self-Thought Front-end Product Developer <br><br>
-    🍭 I’m currently Developing 50 𝗠𝗶𝗻𝗶 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀<br><br>
-    🍭 I’m currently learning 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁<br><br>
-    🍭 I'm quite good at 𝗛𝗧𝗠𝗟 - 𝗖𝗦𝗦 - 𝗝𝗦<br><br>
-    🍭 I’m looking to collaborate with any 𝗢𝗽𝗲𝗻-𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻<br><br>
-    🍭 I’m looking for help for learning 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁<br><br>
-    🍭 Have a look over my github profile<br><br>
+    🍭 Self-taught Frontend Product Developer
+Building modern, responsive, and user-focused web experiences.
+
+🍭 Actively learning JavaScript & modern frameworks
+Exploring best practices, performance, and scalable UI development.
+
+🍭 Strong foundation in HTML, CSS & JavaScript
+Writing clean, maintainable, and accessible code.
+
+🍭 Open to open-source collaboration
+Always excited to contribute, learn, and grow with the developer community.
+
+🍭 On the journey to Full-Stack Development
+Learning how frontend connects with backend systems and APIs.
+
+🍭 Explore my GitHub
+Check out my projects, experiments, and learning journey 🚀
 
 <br><br>
 
