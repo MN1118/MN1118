@@ -1,134 +1,359 @@
-<p align="center">
-<img width="50%" align="center" src="https://raw.githubusercontent.com/dheerajkotwani/dheerajkotwani/master/hello.gif"/>
-</p>
-<br>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MN1118&color=brightgreen" alt="watching_count" />
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/Age-19-blueviolet" />
-    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-green" />
-    <img src="https://img.shields.io/badge/Lives-Pune-success" />
-    <img src="https://img.shields.io/badge/Languages-English%20Marathi%20%26%20Hindi-red" />
-</p>
-<hr>
-<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙈𝙤𝙝𝙞𝙩 𝙉𝙞𝙢𝙗𝙖𝙡𝙠𝙖𝙧 <img src="https://raw.githubusercontent.com/Kunalsonar19/Kunalsonar19/main/wave.gif" width="30px"></h1>
-<h3 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜱᴛᴜᴅᴇɴᴛ</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/mohitnimbalkar-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" >
- </a>
-<a href="https://github.com/MN1118">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
- </a>
- <a href="https://www.instagram.com/mohitt.11_">
-<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
- </a>
- <a href="https://x.com/Mohit11_">
-<img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
- </a>
- <a href="mailto: nimbalkarmohit69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
- </a>
-</p>
-<br>
+<div align="center bgcolor=0F0F1A">
 
-<p align="center"> 
-    <img src="https://64.media.tumblr.com/1bd16cc86de7d81df934ea8439ed16bf/tumblr_n3ye6c5MF41r4iqlro1_400.gif" aligh="center" width="200px">
-    </p>
-<h3 align="center">I ❤️ Fɾσɳƚҽɳԃ Dҽʋҽʅσρɱҽɳƚ</h3>
-<p align="center">⭐ 𝙁𝙚𝙚𝙡 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙩𝙖𝙥 𝙞𝙣𝙩𝙤 𝙢𝙮 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 – 𝙄'𝙢 𝙝𝙚𝙧𝙚 𝙩𝙤 𝙖𝙨𝙨𝙞𝙨𝙩, 𝙗𝙪𝙩 𝙡𝙚𝙩'𝙨 𝙠𝙚𝙚𝙥 𝙩𝙝𝙚 𝙘𝙤𝙣𝙫𝙚𝙧𝙨𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙢𝙮 𝙧𝙚𝙖𝙡𝙢 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚!! ⭐
-</p>
-    
-<br><br>
-<em align="left">
-    <h2>
-        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Introducing: About Me
-    </h2>
-</em>
-    🍭 Self-taught Frontend Product Developer
-Building modern, responsive, and user-focused web experiences.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:6C3CE9,100:00D9FF&height=220&section=header&text=Mohit%20Nimbalkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontFamily=Poppins&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=18" />
 
-🍭 Actively learning JavaScript & modern frameworks
-Exploring best practices, performance, and scalable UI development.
-
-🍭 Strong foundation in HTML, CSS & JavaScript
-Writing clean, maintainable, and accessible code.
-
-🍭 Open to open-source collaboration
-Always excited to contribute, learn, and grow with the developer community.
-
-🍭 On the journey to Full-Stack Development
-Learning how frontend connects with backend systems and APIs.
-
-🍭 Explore my GitHub
-Check out my projects, experiments, and learning journey 🚀
-
-<br><br>
-
-<em align="left">
-    <h2>
-        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Codecraft: Languages & Tools
-    </h2>
-</em>
-<em align="center">
-    <h3> 🪄 Programming Stuffs</h3><em>
-        <p align="center">
-            <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,bootstrap,tailwind,md"
-                align="center" />
-        </p>
-        <br><br>
-        <em align="center">
-            <h3> 🪄 Tools & Technology</h3><em>
-                <p align="center">
-                    <img src="https://skillicons.dev/icons?i=codepen,git,linux,netlify,replit,stackoverflow,vscode,vercel,wordpress"
-                        align="center" />
-                </p>
-                <em>
-
-<br><br>
-
-<em align="left">
-    <h2>
-        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Journey: GitHub Streak 
-    </h2>
-</em>
-<br>
-<span align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MN1118">
-    </span>
-    <span align="right">
-    <img src="https://www.pratishkhandelwal.in/static/media/logo.cf8b869a5a08ed1978ad.gif" align="right" width="200px">
-    </span>
-    
-<br><br>
-
-<em align="left">
-    <h2>
-        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px"> Insights: GitHub Activity
-    </h2>
-</em>
-  <p align="left">
-                    <a href="https://github.com/MN1118/">
-  <img height=200 width="400px" align="center" src="https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=272727&hide_border=false&username=MN1118&show_icons=true&count_private=true&rank_icon=github" />
-</a>
-<a href="https://github.com/MN1118">
-  <img height="200px" width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MN1118&layout=compact&langs_count=8&card_width=320" />
-</a>
 <br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+experiences;MERN+Stack+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+production-ready+code;Always+learning.+Always+shipping." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MN1118&label=Profile%20Views&color=6C3CE9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/MN1118?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0F0F1A" />
+
+</div>
+
 <br/>
-<em>
-<h2 align="left"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50px">Achievement: Top Contributions</h2>
-  
-</em>
-<br>
-<br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MN1118&theme=onlight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<br>
-<p align="center">
-<img src="https://camo.githubusercontent.com/dde371a36092a606487d0093575332cdb845aa5f9fb307ae09e6965c90e1cce8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323435373232312f73637265656e73686f74732f31393836393133302f6d656469612f66386166616462343635383632616466393237396432316361636634346230332e676966" align="center" width="300px">
-</p>
+<br/>
 
-<img src="https://raw.githubusercontent.com/kalyani0704/kalyani0704/02e5956fbf95125d217e0968667fd4fb30ce73db/sample.svg" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Introduction&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+I'm **Mohit** — a Full Stack Developer who treats every interface like a product, not just a page. My focus sits at the intersection of **clean architecture** and **pixel-perfect design**: I build with the MERN stack, obsess over component reusability, and ship things that feel as good as they look. Currently deep in **Next.js**, **TypeScript**, and **AI-integrated applications** — chasing the kind of engineering craft you'd find on a top-tier product team.
+
+> *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=About%20Me&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🚀 Passion**
+Crafting seamless, high-performance web experiences
+
+**💻 Development**
+Full Stack — React front to Node/Express back
+
+**🌍 Location**
+Pune, Maharashtra, India
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Learning**
+MERN Stack · Next.js · TypeScript · AI Integration
+
+**🎯 Goals**
+Ship production-grade software at a world-class team
+
+**⚡ Fun**
+Sketching UI concepts before a single line of code
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=What%20I%20Do&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+| 💻 Development | 🎨 Design | 📚 Learning | 🧩 Problem Solving | 🌐 Open Source |
+|:---:|:---:|:---:|:---:|:---:|
+| Building responsive full-stack apps with clean, scalable code | Crafting intuitive UI/UX with Figma & Tailwind | Continuously exploring modern web & AI tooling | Breaking down complex logic into elegant solutions | Contributing to & learning from the dev community |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Tech%20Stack&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/><br/>
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+
+<br/><br/>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,py,java,cpp" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+
+<br/><br/>
+
+**Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Featured%20Projects&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Resume Builder
+**Description:** Smart resume generator with AI-assisted content suggestions and live formatting preview.
+**Tech:** `React` `Node.js` `MongoDB` `AI API`
+**Status:** ![Status](https://img.shields.io/badge/status-active-6C3CE9?style=flat-square)
+
+<a href="https://github.com/MN1118"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+**Description:** A personal portfolio built for performance and visual polish, showcasing projects and skills.
+**Tech:** `React` `Tailwind CSS` `Figma`
+**Status:** ![Status](https://img.shields.io/badge/status-active-6C3CE9?style=flat-square)
+
+<a href="https://github.com/MN1118"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏥 Hospital Management System
+**Description:** End-to-end system for managing patients, appointments, and staff records.
+**Tech:** `React` `Express` `MongoDB`
+**Status:** ![Status](https://img.shields.io/badge/status-completed-00D9FF?style=flat-square)
+
+<a href="https://github.com/MN1118"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+**Description:** Full-featured storefront with cart, auth, and order management built on the MERN stack.
+**Tech:** `React` `Node.js` `MongoDB` `Express`
+**Status:** ![Status](https://img.shields.io/badge/status-completed-00D9FF?style=flat-square)
+
+<a href="https://github.com/MN1118"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Current%20Focus&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**📖 Learning**
+<br/>
+Next.js & TypeScript
+
+</td>
+<td align="center" width="25%">
+
+**🏗️ Building**
+<br/>
+AI-integrated web apps
+
+</td>
+<td align="center" width="25%">
+
+**🔍 Exploring**
+<br/>
+AI integration in products
+
+</td>
+<td align="center" width="25%">
+
+**📈 Improving**
+<br/>
+System design fundamentals
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Roadmap&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+- [x] React
+- [x] Node.js
+- [ ] Next.js
+- [ ] TypeScript
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] AWS
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Open%20Source&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+I'm drawn to the **React** and **Node.js** ecosystems and enjoy exploring how great open-source projects are structured under the hood. Being part of developer communities and jumping into hackathons keeps me sharp — there's nothing quite like building under pressure alongside people who care about craft as much as you do.
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Coding%20Principles&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+| Principle | Status |
+|---|:---:|
+| Clean Code | ✔️ |
+| Reusable Components | ✔️ |
+| Responsive Design | ✔️ |
+| Accessibility | ✔️ |
+| Performance | ✔️ |
+| Security | ✔️ |
+| Scalability | ✔️ |
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Fun%20Facts&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🎨 Designer at Heart**
+<br/>
+I sketch UI ideas before writing any code
+
+</td>
+<td align="center" width="33%">
+
+**🌙 Night Owl**
+<br/>
+My best code is written after midnight
+
+</td>
+<td align="center" width="33%">
+
+**☕ Fueled by Curiosity**
+<br/>
+Always tinkering with a new framework
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Favorite%20Quote&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+```
+"Any fool can write code that a computer can understand.
+ Good programmers write code that humans can understand."
+
+                                        — Martin Fowler
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Code%20Philosophy&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+```javascript
+const developer = {
+    name: "Mohit Nimbalkar",
+    role: "Full Stack Developer",
+    location: "Pune, Maharashtra, India",
+    skills: ["React", "Node.js", "Express", "MongoDB", "PostgreSQL", "JavaScript"],
+    currentlyLearning: ["Next.js", "TypeScript", "AI Integration"],
+    motto: "Build. Learn. Improve."
+};
+```
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE9,100:00D9FF&height=70&text=Connect%20With%20Me&fontSize=28&fontColor=0F0F1A&fontAlignY=55&fontFamily=Poppins&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/MN1118"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohitnimbalkar-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/mohitt.11_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/Mohit11_"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:nimbalkarmohit69@gmail.com"><img src="https://img.shields.io/badge/Email-6C3CE9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Thanks for visiting my profile.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6C3CE9,100:0F0F1A&height=150&section=footer" />
+
+</div>
