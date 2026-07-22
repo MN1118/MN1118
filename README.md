@@ -340,7 +340,7 @@ const developer = {
 <div align="center">
 
 <a href="https://github.com/MN1118"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="[https://[www.linkedin.com/in/mohitnimbalkar-dev](https://www.linkedin.com/in/mohitnimbalkar/)/](https://www.linkedin.com/in/mohitnimbalkar/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohitnimbalkar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/mohitt.11_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://x.com/Mohit11_"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:work.mohitnimbalkar.com"><img src="https://img.shields.io/badge/Email-6C3CE9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
